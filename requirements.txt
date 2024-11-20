@@ -1,0 +1,6 @@
+aiohttp
+aiofiles
+aioconsole
+aiofiles
+mailtm
+requests
