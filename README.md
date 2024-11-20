@@ -63,7 +63,7 @@
 ### 1. 克隆仓库
 将代码克隆到本地：
 ```bash
-git clone https://github.com/Gzgod/Meschain.git
+git clone https://github.com/Gzgod/Meshchain.git
 cd Meshchain
 ```
 ### 2安装依赖
@@ -77,14 +77,9 @@ pip install -r requirements.txt
 python register.py
 ```
 输入用户名、邮箱、密码和邀请码，脚本会自动保存令牌到 token.txt，并将唯一 ID 保存到 unique_id.txt。
-### 4启动脚本
+### 4启动脚本 注意 如果选择代理跑不起来 可以选择不使用代理
 运行以下命令启动主脚本，完成奖励领取和挖矿任务
-```
-npm run start
-```
-## 附加功能
-使用临时邮箱自动注册和验证
-通过临时邮箱自动完成账户注册和验证：
 ```
 python main.py
 ```
+
