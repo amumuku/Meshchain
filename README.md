@@ -2,7 +2,7 @@
 
 **MeshChain** 是一个去中心化网络，旨在为 AI 工作负载提供经济且可扩展的计算能力。它解决了 AI 资源的高成本和有限访问问题，使每个人都能够轻松地贡献并受益于 AI 的力量。
 
-- [点击注册](https://app.meshchain.ai?ref=PUSNGANNMK2B)
+- [点击注册](https://app.meshchain.ai?ref=UXFQ1RX2KTZA)
 
 
 
