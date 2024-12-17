@@ -71,11 +71,18 @@ cd Meshchain
 ```
 pip install -r requirements.txt
 ```
-### 3注册账户
-运行以下命令启动注册脚本，按提示完成账户注册：
+### 3注册账户-20241217-（平台升级失效了）
+###运行以下命令启动注册脚本，按提示完成账户注册：
 ```
-python register.py
+### python register.py
 ```
+3-1 手动 install
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/af7ffc43-8a45-493a-94e7-b80d40cf14ce" />
+3-2 获取node的unique_id
+<img width="1436" alt="image" src="https://github.com/user-attachments/assets/0528477f-8b3d-4d20-861c-baee0f048974" />
+3-3 获取token 
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/199f365e-9e34-4bd7-8b06-81c58c8b762d" />
+3-4 脚本数据获取完毕后，可以直接删除插件，重新安装获取其他账号新的unique_id
 输入用户名、邮箱、密码和邀请码，脚本会自动保存令牌到 token.txt，并将唯一 ID 保存到 unique_id.txt。
 ### 4启动脚本 注意 如果选择代理跑不起来 可以选择不使用代理
 运行以下命令启动主脚本，完成奖励领取和挖矿任务
