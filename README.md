@@ -63,7 +63,7 @@
 ### 1. 克隆仓库
 将代码克隆到本地：
 ```bash
-git clone https://github.com/Gzgod/Meshchain.git
+git clone https://github.com/amumuku/Meshchain.git
 cd Meshchain
 ```
 ### 2安装依赖
