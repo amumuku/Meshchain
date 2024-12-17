@@ -82,6 +82,7 @@ pip install -r requirements.txt
 <img width="1436" alt="image" src="https://github.com/user-attachments/assets/0528477f-8b3d-4d20-861c-baee0f048974" />
 3-3 获取token 
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/199f365e-9e34-4bd7-8b06-81c58c8b762d" />
+
 3-4 脚本数据获取完毕后，可以直接删除插件，重新安装获取其他账号新的unique_id
 输入用户名、邮箱、密码和邀请码，脚本会自动保存令牌到 token.txt，并将唯一 ID 保存到 unique_id.txt。
 ### 4启动脚本 注意 如果选择代理跑不起来 可以选择不使用代理
